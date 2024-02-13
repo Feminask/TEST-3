@@ -1,0 +1,23 @@
+.c{height: 100px;
+align-items: center;
+color: white;
+border-top: 1px solid rgb(246, 246, 246);
+}
+.content{margin-left: 40%;
+margin-top: 50px;}
+.card{margin-left: 30px;
+border: 0;}
+h2{margin-left: 55px;
+margin-top: 50px;}
+.btn-edit{width: 155px;
+border-color: black;
+margin-left: 48px;
+color: black;}
+.d{height: 80px;
+    margin-top: 50px;
+    border-radius: 4px 4px;
+}
+span{font-size: 33px;
+margin-left: 20px;
+}
+.content3{height: 200px;}
